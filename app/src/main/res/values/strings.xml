@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Media App</string>
+    <string name="home_title">Home</string>
+    <string name="profile_title">Profile</string>
+    <string name="users_title">Users</string>
+    <string name="chats_title">Chats</string>
+    <string name="add_blogs_title">Add Blogs</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update_password">Update Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="btn_update_password">Update Password</string>
+    <string name="update_profile_pic">Update Profile Pic</string>
+    <string name="update_name">Update Name</string>
+    <string name="change_password">Change Password</string>
+</resources>
